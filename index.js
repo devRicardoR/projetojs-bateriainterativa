@@ -1,3 +1,5 @@
+alert('🥁Hello developer, welcome to my website, have fun with my drums!🥁');
+
 //Coletando um click dos elementos da página com a classe "drum" .
 
 var minhaBateria = document.querySelectorAll(".drum").length;
